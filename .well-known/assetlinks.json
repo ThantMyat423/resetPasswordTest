@@ -1,0 +1,13 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "sg.com.westpointbus.wl.atoms.driver",
+        "sha256_cert_fingerprints": [
+          "CF:E1:8C:F9:6D:EA:33:B1:4D:AB:89:2A:D4:03:C2:62:F2:D1:48:3A:A0:FE:0C:F2:2E:54:56:3F:E2:4D:F8:F3"
+        ]
+      }
+    }
+  ]
+  
